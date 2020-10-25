@@ -6,3 +6,5 @@ JavaScript 100 days of code  Quiz App Project
 # This is a student project offfered by luxtech
 
 # Learning never stops
+
+# Always been eager to learn and understand web technologies
